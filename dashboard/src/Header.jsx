@@ -10,6 +10,7 @@ const Header = ()=>{
         <div className="menu-icon">
             <BsJustify className="icon"/>
         </div>
+        
         <div className="header-left">
             <BsSearch className="icon"/>
         </div>
