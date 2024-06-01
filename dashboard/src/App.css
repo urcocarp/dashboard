@@ -37,6 +37,14 @@ body{
     padding: 0 30px 0 30px;
     box-shadow: 0 6px 7px -3px rgba(0, 0, 0, 0.35);
 }
+.header-left input{
+ border: none;
+ gap: 5px;
+ height: 30px;
+ width: 200px;
+ color:#9e9ea4;
+ background-color: transparent;
+}
 .menu-icon{
     display: none;
 }
@@ -127,19 +135,19 @@ body{
   }
   
   .card:first-child {
-    background-color: #2962ff;
+    background-color: #3762ff5d;
   }
   
   .card:nth-child(2) {
-    background-color: #ff6d00;
+    background-color: #ff6f0062;
   }
   
   .card:nth-child(3) {
-    background-color: #2e7d32;
+    background-color: #9e9ea481;
   }
   
   .card:nth-child(4) {
-    background-color: #d50000;
+    background-color: #d5000060;
   }
   
   .card-inner {

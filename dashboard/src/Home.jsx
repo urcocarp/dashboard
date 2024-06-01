@@ -61,7 +61,7 @@ return(
 
        <div className="card">
           <div className="card-inner">
-           <h3>Products</h3>
+           <h3>PRODUCTS</h3>
             <BsFillArchiveFill className="card_icon"/>
            </div>
           <h1>300</h1>
@@ -69,7 +69,7 @@ return(
 
         <div className="card">
           <div className="card-inner">
-           <h3>Categories</h3>
+           <h3>CATEGORIES</h3>
             <BsFillGrid3X3GapFill className="card_icon"/>
            </div>
           <h1>14</h1>
@@ -77,7 +77,7 @@ return(
 
         <div className="card">
           <div className="card-inner">
-           <h3>Costumers</h3>
+           <h3>COSTUMERS</h3>
             <BsPeopleFill className="card_icon"/>
            </div>
           <h1>37</h1>
@@ -85,7 +85,7 @@ return(
 
         <div className="card">
           <div className="card-inner">
-           <h3>Alerts</h3>
+           <h3>ALERTS</h3>
             <BsFillBellFill className="card_icon"/>
            </div>
           <h1>42</h1>

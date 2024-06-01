@@ -13,6 +13,7 @@ const Header = ({OpenSidebar})=>{
 
         <div className="header-left">
             <BsSearch className="icon"/>
+            <input type="text" />
         </div>
         <div className="header-right">
             <BsFillBellFill className="icon"/>
